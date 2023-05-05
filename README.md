@@ -1,5 +1,5 @@
 ``` js
-$ Estudante`
+$ Estudante
 $ Engenharia de Telecomunicações
 $ Universidade Federal do Pará
 ```
