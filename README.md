@@ -1,23 +1,22 @@
 ``` js
-$ Estudante
+$ Estudante`
 $ Engenharia de Telecomunicações
 $ Universidade Federal do Pará
 ```
 
-<table>
-  <tr>
-  <td>
+<table border="0" width="500">
+<tbody>
+    <tr>
+  <td width="200"> 
     <center>
-      <marquee direction="up"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/></marquee>
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
     </center>
   </td>
     <td>
       <img src="https://stats-biel-code.vercel.app/api/top-langs/?username=gabrielfariasnunes&hide_progress=false&locale=pt-BR"/>
   </td>
 </tr>
-  <td>
-    <img src="https://stats-biel-code.vercel.app/api?username=gabrielfariasnunes&show_icons=true&locale=pt-BR"/>
-  </td>
-  </tr>
+  </tbody>
 </table>
+<img src="https://stats-biel-code.vercel.app/api?username=gabrielfariasnunes&show_icons=true&locale=pt-BR"/>
 
