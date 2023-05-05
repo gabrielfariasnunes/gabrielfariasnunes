@@ -9,11 +9,11 @@ $ Universidade Federal do Pará
     <tr>
   <td width="200"> 
     <center>
-      <img src="https://github.githubassets.com/images/mona-loading-default.gif"/>
+           <img src="https://stats-biel-code.vercel.app/api/top-langs/?username=gabrielfariasnunes&hide_progress=false&locale=pt-BR"/>
     </center>
   </td>
     <td>
-      <img src="https://stats-biel-code.vercel.app/api/top-langs/?username=gabrielfariasnunes&hide_progress=false&locale=pt-BR"/>
+     <img src="https://github.githubassets.com/images/mona-loading-default.gif"/>
   </td>
 </tr>
   </tbody>
