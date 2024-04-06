@@ -1,6 +1,6 @@
 ``` bash
-$ echo Estudante de Engenharia de Telecomunicações
-$ echo Universidade Federal do Pará
+$ echo "Estudante de Engenharia de Telecomunicações"
+$ echo "Universidade Federal do Pará"
 ```
 <table>
   <tr>
