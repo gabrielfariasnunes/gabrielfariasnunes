@@ -1,6 +1,6 @@
-``` js
-$ Estudante de Engenharia de Telecomunicações
-$ Universidade Federal do Pará
+``` bash
+$ echo Estudante de Engenharia de Telecomunicações
+$ echo Universidade Federal do Pará
 ```
 <table>
   <tr>
